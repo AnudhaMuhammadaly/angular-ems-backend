@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Anudha",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "10",
+      "name": "jinto",
+      "email": "jinto@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "333",
+      "name": "jefrin k samuel",
+      "email": "jefrin@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "32",
+      "name": "jen ",
+      "email": "jen@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "87",
+      "name": "sreethu",
+      "email": "srt@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "54",
+      "name": "rocky",
+      "email": "rocky@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "85",
+      "name": "resmin",
+      "email": "res@gmail.com",
+      "active": "0"
+    }
+  ]
+}
